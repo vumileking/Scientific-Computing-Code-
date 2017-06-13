@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Emdon,&#x20;Heloise</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Seebregts,&#x20;Chris</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T14:32:02Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T14:32:02Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2007-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Emdon,&#x20;H.,&#x20;&amp;&#x20;Seebregts,&#x20;C.&#x20;(2007).&#x20;Book&#x20;review:&#x20;Race&#x20;against&#x20;time,&#x20;by&#x20;Stephen&#x20;Lewis.&#x20;The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;8,&#x20;232-240.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19794</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T14:32:02Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-8-2007-Emdon-Seebregts.pdf:&#x20;794038&#x20;bytes,&#x20;checksum:&#x20;31c0048103d7a6cebdb48feb8d5d1a9f&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T14:32:02Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-8-2007-Emdon-Seebregts.pdf:&#x20;794038&#x20;bytes,&#x20;checksum:&#x20;31c0048103d7a6cebdb48feb8d5d1a9f&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2007-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;Race&#x20;against&#x20;time,&#x20;by&#x20;Stephen&#x20;Lewis</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

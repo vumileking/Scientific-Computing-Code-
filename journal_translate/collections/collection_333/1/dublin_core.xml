@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Hanna,&#x20;Nagy</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-26T12:38:15Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-26T12:38:15Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2011-02-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Hanna,&#x20;N.&#x20;(2010&#x2F;2011).&#x20;Book&#x20;review:&#x20;&#x20;Tapscott,&#x20;Don&#x20;and&#x20;Williams,&#x20;Anthony&#x20;D.&#x20;(2010).&#x20;Macro&#x20;Wikinomics:&#x20;Rebooting&#x20;Business&#x20;and&#x20;the&#x20;World.&#x20;Portfolio&#x2F;Penguin,&#x20;New&#x20;York,&#x20;NY.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;11,&#x20;83-84.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19765</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-26T12:38:15Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-11-2010-2011-Hanna.pdf:&#x20;468844&#x20;bytes,&#x20;checksum:&#x20;c5bddf259e0b4173195f052c80b170b3&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-26T12:38:15Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-11-2010-2011-Hanna.pdf:&#x20;468844&#x20;bytes,&#x20;checksum:&#x20;c5bddf259e0b4173195f052c80b170b3&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2011-02-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;Tapscott,&#x20;Don&#x20;and&#x20;Williams,&#x20;Anthony&#x20;D.&#x20;(2010).&#x20;Macro&#x20;Wikinomics:&#x20;Rebooting&#x20;Business&#x20;and&#x20;the&#x20;World.&#x20;Portfolio&#x2F;Penguin,&#x20;New&#x20;York,&#x20;NY.</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

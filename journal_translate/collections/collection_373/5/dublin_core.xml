@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Dagne,&#x20;Tesh</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-12-23T16:32:37Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-12-23T16:32:37Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Dagne,&#x20;T.&#x20;(2016).&#x20;Geographical&#x20;indications&#x20;(GIs)&#x20;as&#x20;tools&#x20;for&#x20;agricultural&#x20;knowledge&#x20;governance&#x20;in&#x20;selected&#x20;East&#x20;and&#x20;Southern&#x20;African&#x20;countries.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;191&#x20;143-152.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21582</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">This&#x20;thematic&#x20;report&#x20;looks&#x20;at&#x20;geographical&#x20;indications&#x20;(GIs)&#x20;as&#x20;tools&#x20;of&#x20;knowledge&#x20;governance&#x20;in&#x20;agricultural&#x20;development&#x20;in&#x20;selected&#x20;Eastern&#x20;and&#x20;Southern&#x20;African&#x20;countries.&#x20;The&#x20;author&#x20;identifies&#x20;features&#x20;of&#x20;GI&#x20;law&#x20;in&#x20;these&#x20;countries,&#x20;and&#x20;concludes&#x20;that&#x20;properly-crafted&#x20;GIs&#x20;can&#x20;serve&#x20;as&#x20;tools&#x20;for&#x20;support&#x20;of&#x20;production&#x20;and&#x20;marketing&#x20;of&#x20;a&#x20;wide&#x20;variety&#x20;of&#x20;African&#x20;agricultural&#x20;resources.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-23T16:32:37Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Dagne.pdf:&#x20;98886&#x20;bytes,&#x20;checksum:&#x20;688da510815b0cd2354cd2ad18ea9438&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-23T16:32:37Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Dagne.pdf:&#x20;98886&#x20;bytes,&#x20;checksum:&#x20;688da510815b0cd2354cd2ad18ea9438&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">intellectual&#x20;property&#x20;(IP);&#x20;geographical&#x20;indications&#x20;(GIs);&#x20;traditional&#x20;knowledge&#x20;(TK),&#x20;agricultural&#x20;production</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Geographical&#x20;indications&#x20;(GIs)&#x20;as&#x20;tools&#x20;for&#x20;agricultural&#x20;knowledge&#x20;governance&#x20;in&#x20;selected&#x20;East&#x20;and&#x20;Southern&#x20;African&#x20;countries</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="epage" language="">143</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

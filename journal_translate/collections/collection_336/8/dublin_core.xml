@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Stucke,&#x20;William</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-05-05T13:45:07Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-05-05T13:45:07Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;20347</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-05-05T13:45:07Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-14-2015-Stucke.pdf:&#x20;534489&#x20;bytes,&#x20;checksum:&#x20;d3c23c07254eba6aaa60092af5e81190&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-05-05T13:45:07Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-14-2015-Stucke.pdf:&#x20;534489&#x20;bytes,&#x20;checksum:&#x20;d3c23c07254eba6aaa60092af5e81190&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Case&#x20;notes:&#x20;Considering&#x20;possible&#x20;regulatory&#x20;approaches&#x20;to&#x20;television&#x20;white&#x20;spaces&#x20;(TVWS):&#x20;A&#x20;view&#x20;from&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

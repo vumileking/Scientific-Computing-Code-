@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Rens,&#x20;Andrew</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Lessig,&#x20;Lawrence</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T15:58:43Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T15:58:43Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2006-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19796</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T15:58:43Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-7-2006-Rens-Lessig.pdf:&#x20;354215&#x20;bytes,&#x20;checksum:&#x20;b0fb21e2233f7f44fe604facf31acdc4&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T15:58:43Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-7-2006-Rens-Lessig.pdf:&#x20;354215&#x20;bytes,&#x20;checksum:&#x20;b0fb21e2233f7f44fe604facf31acdc4&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2006-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Forever&#x20;minus&#x20;a&#x20;day:&#x20;A&#x20;consideration&#x20;of&#x20;copyright&#x20;term&#x20;extension&#x20;in&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

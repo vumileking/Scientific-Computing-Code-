@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="date" qualifier="accessioned" language="">2016-01-17T06:45:48Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-01-17T06:45:48Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2013-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC).&#x20;(2013).&#x20;Issue&#x20;13:&#x20;Thematic&#x20;Issue:&#x20;Leadership&#x20;in&#x20;the&#x20;Electronic&#x20;Age:&#x20;A&#x20;Broad&#x20;Inter-Disciplinary&#x20;Practice.&#x20;Johannesburg:&#x20;LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(Print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(Online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19271</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">AJIC&#x20;thematic&#x20;issue&#x20;focused&#x20;on&#x20;&quot;Leadership&#x20;in&#x20;the&#x20;Electronic&#x20;Age:&#x20;A&#x20;Broad&#x20;Inter-Disciplinary&#x20;Practice&quot;.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-01-17T06:45:47Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Full-Issue.pdf:&#x20;3172281&#x20;bytes,&#x20;checksum:&#x20;a94adf79c74f08bc7cd2f1e5076d9a52&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-01-17T06:45:48Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Full-Issue.pdf:&#x20;3172281&#x20;bytes,&#x20;checksum:&#x20;a94adf79c74f08bc7cd2f1e5076d9a52&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2013-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">AJIC&#x20;Issue&#x20;13,&#x20;2013-Full&#x20;Issue</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Other</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

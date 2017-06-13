@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Adams,&#x20;Rachel</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Adeleke,&#x20;Fola</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-12-24T14:14:53Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-12-24T14:14:53Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Adams,&#x20;R.,&#x20;&amp;&#x20;Adeleke,&#x20;F.&#x20;(2016).&#x20;Assessing&#x20;the&#x20;potential&#x20;role&#x20;of&#x20;open&#x20;data&#x20;in&#x20;South&#x20;African&#x20;environmental&#x20;management.The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;19,&#x20;79-99.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21585</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21585</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">This&#x20;study&#x20;explores&#x20;the&#x20;possibilities&#x20;for&#x20;open&#x20;data&#x20;as&#x20;a&#x20;knowledge&#x20;governance&#x20;mechanism&#x20;that&#x20;could&#x20;benefit&#x20;environmental&#x20;management&#x20;in&#x20;South&#x20;Africa.&#x20;The&#x20;authors&#x20;consider&#x20;the&#x20;potential&#x20;benefits&#x20;of&#x20;open&#x20;data&#x20;in&#x20;support&#x20;of&#x20;public&#x20;participatory&#x20;governance&#x20;modalities,&#x20;and&#x20;the&#x20;legislative&#x20;frameworks&#x20;and&#x20;Constitutional&#x20;Court&#x20;stance&#x20;in&#x20;South&#x20;Africa&#x20;in&#x20;support&#x20;of&#x20;the&#x20;right&#x20;of&#x20;access&#x20;to&#x20;information&#x20;and&#x20;proactive&#x20;disclosure&#x20;of&#x20;environmental&#x20;information.&#x20;The&#x20;article&#x20;also&#x20;looks&#x20;at&#x20;potential&#x20;barriers&#x20;to&#x20;effective&#x20;use&#x20;of&#x20;open&#x20;data&#x20;in&#x20;South&#x20;Africa.&#x20;The&#x20;authors&#x20;find&#x20;that&#x20;effective&#x20;deployment&#x20;of&#x20;open&#x20;data&#x20;as&#x20;a&#x20;means&#x20;to&#x20;support&#x20;participatory&#x20;environmental&#x20;governance&#x20;will&#x20;require&#x20;a&#x20;dedicated&#x20;South&#x20;African&#x20;open&#x20;data&#x20;legal&#x20;instrument,&#x20;as&#x20;well&#x20;as&#x20;political&#x20;will&#x20;to&#x20;compile&#x20;the&#x20;necessary&#x20;data,&#x20;and&#x20;steps&#x20;to&#x20;ensure&#x20;meaningful&#x20;citizen&#x20;data&#x20;access&#x20;and&#x20;use.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-24T14:14:53Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Adams-Adeleke.pdf:&#x20;136269&#x20;bytes,&#x20;checksum:&#x20;1e1279640b0ea08b7690d4e17cc7004f&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-24T14:14:53Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Adams-Adeleke.pdf:&#x20;136269&#x20;bytes,&#x20;checksum:&#x20;1e1279640b0ea08b7690d4e17cc7004f&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">open&#x20;data,&#x20;environmental&#x20;management,&#x20;participatory&#x20;governance,&#x20;access&#x20;to&#x20;information,&#x20;knowledge&#x20;governance,&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Assessing&#x20;the&#x20;potential&#x20;role&#x20;of&#x20;open&#x20;data&#x20;in&#x20;South&#x20;African&#x20;environmental&#x20;management</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

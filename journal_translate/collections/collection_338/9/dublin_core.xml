@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Rens,&#x20;Andrew</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Pfumorodze,&#x20;Jimcall</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-01-18T17:31:57Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-01-18T17:31:57Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Rens,&#x20;A.,&#x20;&amp;&#x20;Pfumorodze,&#x20;J.&#x20;(2015).&#x20;Neglect&#x20;of&#x20;the&#x20;human&#x20;rights&#x20;dimension&#x20;in&#x20;African&#x20;IP&#x20;policymaking.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;16,&#x20;82-87.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19318</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;19318</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">In&#x20;this&#x20;thematic&#x20;report,&#x20;the&#x20;authors,&#x20;both&#x20;members&#x20;of&#x20;the&#x20;African&#x20;Scholars&#x20;for&#x20;Knowledge&#x20;Justice&#x20;(ASK&#x20;Justice)&#x20;network,&#x20;outline&#x20;the&#x20;neglect&#x20;&#x0D;&#x0A;of&#x20;human&#x20;rights&#x20;in&#x20;IP&#x20;policymaking;&#x20;the&#x20;need&#x20;to&#x20;end&#x20;this&#x20;neglect,&#x20;particularly&#x20;in&#x20;the&#x20;African&#x20;context;&#x20;and&#x20;steps&#x20;to&#x20;be&#x20;taken&#x20;towards&#x20;this&#x20;goal.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-01-18T17:31:57Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-16-2015-Rens-Pfumorodze.pdf:&#x20;198654&#x20;bytes,&#x20;checksum:&#x20;f3928c1693b6f243d5915735a83f0642&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-01-18T17:31:57Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-16-2015-Rens-Pfumorodze.pdf:&#x20;198654&#x20;bytes,&#x20;checksum:&#x20;f3928c1693b6f243d5915735a83f0642&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">intellectual&#x20;&#x20;property&#x20;&#x20;(IP),&#x20;&#x20;human&#x20;&#x20;rights,&#x20;&#x20;public&#x20;&#x20;interest,&#x20;&#x20;development,&#x20;&#x20;Africa,&#x20;&#x20;access&#x20;&#x20;to&#x20;&#x20;medicines,&#x20;&#x20;access&#x20;&#x20;to&#x20;&#x20;knowledge&#x20;(A2K)</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Neglect&#x20;of&#x20;the&#x20;human&#x20;rights&#x20;dimension&#x20;in&#x20;African&#x20;IP&#x20;policymaking</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

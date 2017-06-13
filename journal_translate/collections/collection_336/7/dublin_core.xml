@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Raffinetti,&#x20;Carla</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-05-05T13:42:53Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-05-05T13:42:53Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;20346</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-05-05T13:42:53Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-14-2015-Raffinetti.pdf:&#x20;383882&#x20;bytes,&#x20;checksum:&#x20;b6b89f8b6fed4b4a8c54340a3a958f15&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-05-05T13:42:53Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-14-2015-Raffinetti.pdf:&#x20;383882&#x20;bytes,&#x20;checksum:&#x20;b6b89f8b6fed4b4a8c54340a3a958f15&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Licensing&#x20;of&#x20;communications&#x20;networks&#x20;and&#x20;services:&#x20;Case&#x20;study&#x20;of&#x20;market&#x20;liberalisation&#x20;in&#x20;South&#x20;Africa&#x20;and&#x20;the&#x20;United&#x20;Kingdom</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

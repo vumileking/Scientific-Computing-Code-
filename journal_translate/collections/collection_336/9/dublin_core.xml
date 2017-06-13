@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Lewis,&#x20;Charley</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-05-05T13:49:18Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-05-05T13:49:18Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;20348</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;20348</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-05-05T13:49:18Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-14-2015-Lewis.pdf:&#x20;208422&#x20;bytes,&#x20;checksum:&#x20;99bb96a9443856b9ccfe1c4f587787ff&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-05-05T13:49:18Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-14-2015-Lewis.pdf:&#x20;208422&#x20;bytes,&#x20;checksum:&#x20;99bb96a9443856b9ccfe1c4f587787ff&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Review&#x20;of&#x20;research&#x20;paper:&#x20;Economic&#x20;regulation</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="type" qualifier="none" language="">review</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

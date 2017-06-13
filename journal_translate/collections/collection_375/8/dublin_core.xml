@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Robb,&#x20;Genna</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Vilakazi,&#x20;Thando</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2017-01-16T22:39:05Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2017-01-16T22:39:05Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">obb,&#x20;G.,&#x20;&amp;&#x20;Vilakazi,&#x20;T.&#x20;(2016).&#x20;Mobile&#x20;payments&#x20;markets&#x20;in&#x20;Kenya,&#x20;Tanzania&#x20;and&#x20;Zimbabwe:&#x20;A&#x20;comparative&#x20;study&#x20;of&#x20;competitive&#x20;dynamics&#x20;and&#x20;outcomes.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;17.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21630</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21630</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">This&#x20;article&#x20;aims&#x20;to&#x20;contribute&#x20;to&#x20;a&#x20;better&#x20;understanding&#x20;of&#x20;the&#x20;competitive&#x20;dynamics&#x20;in&#x20;mobile&#x20;payments&#x20;markets&#x20;and&#x20;the&#x20;implications&#x20;for&#x20;consumers.&#x20;We&#x20;do&#x20;this&#x20;by&#x20;conducting&#x20;a&#x20;comparative&#x20;review&#x20;of&#x20;market&#x20;structure,&#x20;competition&#x20;dynamics&#x20;and&#x20;pricing&#x20;in&#x20;mobile&#x20;payments&#x20;markets&#x20;in&#x20;three&#x20;African&#x20;countries.&#x20;The&#x20;results&#x20;show&#x20;that,&#x20;where&#x20;there&#x20;is&#x20;a&#x20;dominant&#x20;incumbent,&#x20;tariffs&#x20;for&#x20;mobile&#x20;payments&#x20;tend&#x20;to&#x20;be&#x20;higher&#x20;and&#x20;reflect&#x20;a&#x20;wider&#x20;gap&#x20;between&#x20;those&#x20;for&#x20;registered&#x20;and&#x20;unregistered&#x20;customers.&#x20;This&#x20;is&#x20;consistent&#x20;with&#x20;the&#x20;predictions&#x20;of&#x20;economic&#x20;theory&#x20;in&#x20;network&#x20;industries&#x20;and&#x20;the&#x20;incentives&#x20;of&#x20;incumbent&#x20;operators&#x20;to&#x20;capture&#x20;or&#x20;tip&#x20;the&#x20;market&#x20;in&#x20;their&#x20;favour,&#x20;which&#x20;also&#x20;contributes&#x20;to&#x20;reducing&#x20;switching&#x20;by&#x20;existing&#x20;customers&#x20;in&#x20;the&#x20;market&#x20;for&#x20;mobile&#x20;services.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-16T22:39:05Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Robb-Vilakazi.pdf:&#x20;236168&#x20;bytes,&#x20;checksum:&#x20;7012b39ef9dadc3a6b00fbf41807e3d0&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-16T22:39:05Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Robb-Vilakazi.pdf:&#x20;236168&#x20;bytes,&#x20;checksum:&#x20;7012b39ef9dadc3a6b00fbf41807e3d0&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-09-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">mobile&#x20;payments,&#x20;markets,&#x20;competition,&#x20;Kenya,&#x20;Tanzania,&#x20;Zimbabwe</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Mobile&#x20;payments&#x20;markets&#x20;in&#x20;Kenya,&#x20;Tanzania&#x20;and&#x20;Zimbabwe:&#x20;A&#x20;comparative&#x20;study&#x20;of&#x20;competitive&#x20;dynamics&#x20;and&#x20;outcomes.</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">17</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">17</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

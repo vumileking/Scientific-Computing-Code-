@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Van&#x20;Audenhove,&#x20;Leo</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Ballon,&#x20;Pieter</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Poel,&#x20;Martijn</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Staelens,&#x20;Tomas</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-28T13:57:02Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-28T13:57:02Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2007-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Van&#x20;Audenhove,&#x20;L.,&#x20;Ballon,&#x20;P.,&#x20;Poel,&#x20;M.,&#x20;&amp;&#x20;Staelens,&#x20;T.&#x20;(2007).&#x20;Government&#x20;policy&#x20;and&#x20;wireless&#x20;city&#x20;networks:&#x20;A&#x20;comparative&#x20;analysis&#x20;of&#x20;motivations,&#x20;goals,&#x20;services&#x20;and&#x20;their&#x20;relation&#x20;to&#x20;network&#x20;structure.&#x20;The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;8,&#x20;108-135.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19789</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T13:57:02Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-8-2007-Van-Audenhove-et-al.pdf:&#x20;1147138&#x20;bytes,&#x20;checksum:&#x20;3fe8d0b6ee4bd9a707871088a06e9474&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T13:57:02Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-8-2007-Van-Audenhove-et-al.pdf:&#x20;1147138&#x20;bytes,&#x20;checksum:&#x20;3fe8d0b6ee4bd9a707871088a06e9474&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2007-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Government&#x20;policy&#x20;and&#x20;wireless&#x20;city&#x20;networks:&#x20;A&#x20;comparative&#x20;analysis&#x20;of&#x20;motivations,&#x20;goals,&#x20;services&#x20;and&#x20;their&#x20;relation&#x20;to&#x20;network&#x20;structure</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

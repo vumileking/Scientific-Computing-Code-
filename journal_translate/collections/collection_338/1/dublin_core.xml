@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="editor" language="">Chris&#x20;Armstrong</dcvalue>
+  <dcvalue element="contributor" qualifier="editor" language="">Tobias&#x20;Schonwetter</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-01-16T19:39:07Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-01-16T19:39:07Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC).&#x20;(2015).&#x20;Issue&#x20;16:&#x20;Thematic&#x20;Issue:&#x20;African&#x20;Intersections&#x20;between&#x20;Intellectual&#x20;Property&#x20;Rights&#x20;and&#x20;Knowledge&#x20;Access.&#x20;Johannesburg:&#x20;LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19268</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">AJIC&#x20;thematic&#x20;issue&#x20;focused&#x20;on&#x20;&quot;African&#x20;Intersections&#x20;between&#x20;Intellectual&#x20;Property&#x20;Rights&#x20;and&#x20;Knowledge&#x20;Access&quot;.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-01-16T19:39:06Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;2&#x0D;&#x0A;AJIC-Issue-16-2015-Full-Issue.pdf:&#x20;2388880&#x20;bytes,&#x20;checksum:&#x20;0dae55a52b814ed6d10cda4fabf7707f&#x20;(MD5)&#x0D;&#x0A;AJIC-Issue-16-2015-Full-Issue-POD.pdf:&#x20;2439388&#x20;bytes,&#x20;checksum:&#x20;413275964fc8774b3f28da50c74fae35&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-01-16T19:39:07Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;2&#x0D;&#x0A;AJIC-Issue-16-2015-Full-Issue.pdf:&#x20;2388880&#x20;bytes,&#x20;checksum:&#x20;0dae55a52b814ed6d10cda4fabf7707f&#x20;(MD5)&#x0D;&#x0A;AJIC-Issue-16-2015-Full-Issue-POD.pdf:&#x20;2439388&#x20;bytes,&#x20;checksum:&#x20;413275964fc8774b3f28da50c74fae35&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">intellectual&#x20;&#x20;property&#x20;&#x20;(IP),&#x20;&#x20;access&#x20;&#x20;to&#x20;&#x20;knowledge&#x20;&#x20;(A2K),&#x20;&#x20;access&#x20;&#x20;to&#x20;&#x20;medicines,&#x20;&#x20;Africa,&#x20;&#x20;openness,&#x20;&#x20;commons,&#x20;&#x20;Creative&#x20;&#x20;Commons,&#x20;&#x20;development,&#x20;&#x20;human&#x20;&#x20;rights,&#x20;&#x20;human&#x20;&#x20;security,&#x20;&#x20;WIPO,&#x20;&#x20;WTO,&#x20;&#x20;UNFCCC,&#x20;&#x20;climate&#x20;&#x20;change,&#x20;&#x20;TRIPS&#x20;Agreement,&#x20;Doha&#x20;Declaration</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">AJIC&#x20;Issue&#x20;16,&#x20;2015-Full&#x20;Issue</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Other</dcvalue>
+</dublin_core>

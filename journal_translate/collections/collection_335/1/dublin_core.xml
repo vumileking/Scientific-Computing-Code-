@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Kouakou,&#x20;Koffi</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-01-17T09:23:44Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-01-17T09:23:44Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2013-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Kouakou,&#x20;K.&#x20;(2013).&#x20;Book&#x20;review:&#x20;Ming,&#x20;A.,&#x20;Awan,&#x20;O.&#x20;&amp;&#x20;Somani,&#x20;N.&#x20;(eds)&#x20;(2013).&#x20;e-Governance&#x20;in&#x20;Small&#x20;States,&#x20;Commonwealth&#x20;Secretariat,&#x20;London.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;13,&#x20;&#x20;124-126.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19281</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-01-17T09:23:44Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Kouakou.pdf:&#x20;561367&#x20;bytes,&#x20;checksum:&#x20;fbf72b653e6521991fa070316a31cecb&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-01-17T09:23:44Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Kouakou.pdf:&#x20;561367&#x20;bytes,&#x20;checksum:&#x20;fbf72b653e6521991fa070316a31cecb&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2013-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;Ming,&#x20;A.,&#x20;Awan,&#x20;O.&#x20;&amp;&#x20;Somani,&#x20;N.&#x20;(eds)&#x20;(2013).&#x20;e-Governance&#x20;in&#x20;Small&#x20;States,&#x20;Commonwealth&#x20;Secretariat,&#x20;London.</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="ddi">
+  <dcvalue element="datatype" qualifier="none" language="">DAILY&#x20;BANDWIDTH&#x20;AGGREGATE&#x20;USAGE&#x20;PATTERN</dcvalue>
+  <dcvalue element="geogcover" qualifier="none" language="">Uganda,&#x20;Kenya</dcvalue>
+  <dcvalue element="method" qualifier="none" language="">The&#x20;empirical&#x20;study&#x20;carried&#x20;out&#x20;within&#x20;the&#x20;OAUNET&#x20;in&#x20;Obafemi&#x20;Awolowo&#x20;University&#x20;showed&#x20;that&#x20;the&#x20;pattern&#x20;of&#x0D;&#x0A;aggregate&#x20;traffic&#x20;levels&#x20;fluctuates&#x20;following&#x20;the&#x20;Extreme&#x20;Value&#x20;Type&#x20;I&#x20;distribution&#x20;function.&#x20;Peak&#x20;periods&#x20;are&#x20;the&#x20;time&#x20;of&#x20;maximum&#x20;usage,&#x0D;&#x0A;mostly&#x20;during&#x20;the&#x20;day,&#x20;especially&#x20;during&#x20;working&#x20;hours,&#x20;while&#x20;off-peak&#x20;periods&#x20;are&#x20;in&#x20;the&#x20;early&#x0D;&#x0A;hours&#x20;of&#x20;the&#x20;day&#x20;and&#x20;late&#x20;hours&#x20;in&#x20;the&#x20;evenings.&#x20;These&#x20;patterns&#x20;characterise&#x20;Internet&#x20;usage&#x0D;&#x0A;and&#x20;are&#x20;also&#x20;observed&#x20;in&#x20;research&#x20;and&#x20;academic&#x20;networks&#x20;of&#x20;the&#x20;HEI.</dcvalue>
+</dublin_core>

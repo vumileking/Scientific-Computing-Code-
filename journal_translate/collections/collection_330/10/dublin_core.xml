@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Pierson,&#x20;Jo</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Baelden,&#x20;Dorien</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Lievens,&#x20;Bram</dcvalue>
+  <dcvalue element="contributor" qualifier="author">Marsigny,&#x20;Christine</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-27T11:58:32Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-27T11:58:32Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2007-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Pierson,&#x20;J.,&#x20;Baelden,&#x20;D.,&#x20;Lievens,&#x20;B.,&#x20;&amp;&#x20;Marsigny,&#x20;C.&#x20;(2007).&#x20;Analysing&#x20;sector&#x20;specificity&#x20;regarding&#x20;ICT&#x20;and&#x20;broadband&#x20;usage&#x20;by&#x20;SMME&#x20;businesses.&#x20;The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;&#x20;8,&#x20;154-171.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19783</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-27T11:58:32Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-8-2007-Pierson-et-al.pdf:&#x20;561348&#x20;bytes,&#x20;checksum:&#x20;eb00f514ce4050ea68cb7c6ef96b6906&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-27T11:58:32Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-8-2007-Pierson-et-al.pdf:&#x20;561348&#x20;bytes,&#x20;checksum:&#x20;eb00f514ce4050ea68cb7c6ef96b6906&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2007-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Analysing&#x20;sector&#x20;specificity&#x20;regarding&#x20;ICT&#x20;and&#x20;broadband&#x20;usage&#x20;by&#x20;SMME&#x20;businesses</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

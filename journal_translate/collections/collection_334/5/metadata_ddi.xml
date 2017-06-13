@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="ddi">
+  <dcvalue element="analysisunit" qualifier="none" language="">individual&#x20;knowledge&#x20;and&#x20;perceptions</dcvalue>
+  <dcvalue element="colldate" qualifier="none" language="">retrospective&#x20;&#x20;2000-2011</dcvalue>
+  <dcvalue element="collmode" qualifier="none" language="">a&#x20;selection&#x20;of&#x20;key&#x20;respondents&#x20;from&#x20;a&#x20;cross-section&#x20;of&#x20;organisations&#x20;were&#x20;interviewed.</dcvalue>
+  <dcvalue element="datakind" qualifier="none" language="">qualitative&#x20;survey</dcvalue>
+  <dcvalue element="description" qualifier="none" language="">a&#x20;selection&#x20;of&#x20;key&#x20;respondents&#x20;from&#x20;a&#x20;cross-section&#x20;of&#x20;organisations&#x20;were&#x20;interviewed.&#x20;These&#x20;organisations&#x20;include&#x20;ICT&#x20;network&#x20;operators,&#x20;ICT&#x20;solution&#x20;&#x20;providers,&#x20;government&#x20;ministries&#x20;and&#x20;non-governmental&#x0D;&#x0A;organisations&#x20;(NGOs).</dcvalue>
+  <dcvalue element="geogcover" qualifier="none" language="">country</dcvalue>
+  <dcvalue element="method" qualifier="none" language="">structured&#x20;questionnaire,&#x20;face&#x20;to&#x20;face&#x20;interview</dcvalue>
+  <dcvalue element="diststmt" qualifier="none" language="">Contact&#x20;the&#x20;editors&#x20;to&#x20;discuss&#x20;reuse&#x20;of&#x20;the&#x20;data&#x20;in&#x20;collaboration&#x20;with&#x20;the&#x20;authors</dcvalue>
+  <dcvalue element="nation" qualifier="none" language="">Zambia</dcvalue>
+</dublin_core>

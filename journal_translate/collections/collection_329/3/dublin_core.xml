@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Van&#x20;Reijswoud,&#x20;Victor</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T16:23:58Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T16:23:58Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2006-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;7.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19802</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T16:23:58Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-7-2006-Van-Reijswoud.pdf:&#x20;381519&#x20;bytes,&#x20;checksum:&#x20;161ac10399cd63fda09257f687a662e6&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T16:23:58Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-7-2006-Van-Reijswoud.pdf:&#x20;381519&#x20;bytes,&#x20;checksum:&#x20;161ac10399cd63fda09257f687a662e6&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2006-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;At&#x20;the&#x20;Crossroads:&#x20;ICT&#x20;Policymaking&#x20;in&#x20;East&#x20;Africa,&#x20;edited&#x20;by&#x20;Florence&#x20;E.&#x20;Etta&#x20;&amp;&#x20;Laurent&#x20;Elder,&#x20;2005</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

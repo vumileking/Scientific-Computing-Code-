@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-23T19:17:46Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-23T19:17:46Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2011-02-15</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(Print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(Online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19716</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-23T19:17:46Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Full-Issue.pdf:&#x20;3646180&#x20;bytes,&#x20;checksum:&#x20;708c328e126ae52d92f9cd7f1e600479&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-23T19:17:46Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Full-Issue.pdf:&#x20;3646180&#x20;bytes,&#x20;checksum:&#x20;708c328e126ae52d92f9cd7f1e600479&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2011-02-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">es</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">AJIC&#x20;Issue&#x20;11,&#x20;2010&#x2F;2011-Full&#x20;Issue</dcvalue>
+</dublin_core>

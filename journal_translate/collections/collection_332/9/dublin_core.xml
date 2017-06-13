@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Gray,&#x20;Eve</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-27T08:51:17Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-27T08:51:17Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2010-02-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Gray,&#x20;E.&#x20;(2009&#x2F;2010).&#x20;Access&#x20;to&#x20;Africa’s&#x20;knowledge:&#x20;Publishing&#x20;development&#x20;research&#x20;and&#x20;measuring&#x20;value.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;10,&#x20;4-19.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19767</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-27T08:51:17Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-10-2009-2010-Gray.pdf:&#x20;145337&#x20;bytes,&#x20;checksum:&#x20;0a63926c6e4aa50343da5362166ca0ea&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-27T08:51:17Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-10-2009-2010-Gray.pdf:&#x20;145337&#x20;bytes,&#x20;checksum:&#x20;0a63926c6e4aa50343da5362166ca0ea&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2010-02-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Access&#x20;to&#x20;Africa’s&#x20;knowledge:&#x20;Publishing&#x20;development&#x20;research&#x20;and&#x20;measuring&#x20;value</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

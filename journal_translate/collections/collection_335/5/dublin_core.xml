@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Von&#x20;Solms,&#x20;Rossouw</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">De&#x20;Lange,&#x20;Etienne</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-01-17T08:52:03Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-01-17T08:52:03Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2013-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Case&#x20;notes:&#x20;SenPortal:&#x20;Internet-based&#x20;services&#x20;for&#x20;senior&#x20;citizens:&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;13,&#x20;76-81.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19277</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">Countless&#x20;senior&#x20;citizens&#x20;retired&#x20;before&#x20;computers&#x20;and&#x20;the&#x20;Internet&#x20;became&#x20;prominent.&#x20;In&#x20;many&#x20;cases,&#x20;cognitive&#x20;and&#x20;physical&#x20;limitations&#x20;restrict&#x20;them&#x20;from&#x20;enjoying&#x20;the&#x20;benefits&#x20;and&#x20;opportunities&#x20;the&#x20;Internet&#x20;has&#x20;to&#x20;offer.&#x20;The&#x20;project&#x20;discussed&#x20;here&#x20;experimented&#x20;with&#x20;measures&#x20;to&#x20;assist&#x20;the&#x20;elderly&#x20;to&#x20;utilise&#x20;some&#x20;&#x0D;&#x0A;Internet-based&#x20;services.&#x20;SenPortal,&#x20;a&#x20;single,&#x20;sign-on,&#x20;front-end&#x20;system&#x20;using&#x20;facial&#x20;recognition,&#x20;was&#x20;established&#x20;to&#x20;assist&#x20;senior&#x20;users&#x20;to&#x20;enjoy&#x20;Internet-based&#x20;&#x0D;&#x0A;services&#x20;such&#x20;as&#x20;Gmail,&#x20;Skype,&#x20;Google,&#x20;Wikipedia&#x20;and&#x20;Facebook&#x20;without&#x20;having&#x20;to&#x20;use&#x20;any&#x20;user&#x20;ID&#x20;or&#x20;password.&#x20;The&#x20;article&#x20;reports&#x20;on&#x20;a&#x20;case&#x20;study&#x20;undertaken&#x20;in&#x20;&#x20;the&#x20;retirement&#x20;village&#x20;where&#x20;SenPortal&#x20;was&#x20;developed.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-01-17T08:52:03Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Von-Solms-De-Lange.pdf:&#x20;740854&#x20;bytes,&#x20;checksum:&#x20;af12a0471242d57472f8ae7cc2a732cb&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-01-17T08:52:03Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-13-2013-Von-Solms-De-Lange.pdf:&#x20;740854&#x20;bytes,&#x20;checksum:&#x20;af12a0471242d57472f8ae7cc2a732cb&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2013-12-15</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="">Institute&#x20;for&#x20;ICT&#x20;Advancement,&#x20;Nelson&#x20;Mandela&#x20;Metropolitan&#x20;University,&#x20;Port&#x20;Elizabeth,&#x20;South&#x20;Africa,&#x20;Rossouw.VonSolms@nmmu.ac.za</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">senior&#x20;citizens,&#x20;Internet-based&#x20;services,&#x20;facial&#x20;recognition,&#x20;single,&#x20;sign-on,&#x20;voice&#x20;recognition,&#x20;social&#x20;networking</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Case&#x20;notes:&#x20;SenPortal:&#x20;Internet-based&#x20;services&#x20;for&#x20;senior&#x20;citizens</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+  <dcvalue element="citation" qualifier="epage" language="">6</dcvalue>
+</dublin_core>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Burke,&#x20;Mark</dcvalue>
+  <dcvalue element="coverage" qualifier="spatial" language="">English-language,&#x20;peer-reviewed&#x20;articles</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-23T10:55:18Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-23T10:55:18Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2012-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Burke,&#x20;M.&#x20;(2012).&#x20;A&#x20;decade&#x20;of&#x20;e-government&#x20;research&#x20;in&#x20;Africa.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;12,&#x20;2-25.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19703</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-23T10:55:18Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Burke.pdf:&#x20;740555&#x20;bytes,&#x20;checksum:&#x20;f6399c023f790094a8f30eef3e9ffefe&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-23T10:55:18Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Burke.pdf:&#x20;740555&#x20;bytes,&#x20;checksum:&#x20;f6399c023f790094a8f30eef3e9ffefe&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2012-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">A&#x20;decade&#x20;of&#x20;e-government&#x20;research&#x20;in&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+  <dcvalue element="citation" qualifier="epage" language="">24</dcvalue>
+</dublin_core>

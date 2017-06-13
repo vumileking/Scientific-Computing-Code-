@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Wattegama,&#x20;Chanuka</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-28T17:02:00Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-28T17:02:00Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2005-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;6.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19811</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T17:02:00Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-6-2005-Wattegama.pdf:&#x20;341456&#x20;bytes,&#x20;checksum:&#x20;839a7f8aec6fc12fd2e3a92833ffbf7c&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T17:02:00Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-6-2005-Wattegama.pdf:&#x20;341456&#x20;bytes,&#x20;checksum:&#x20;839a7f8aec6fc12fd2e3a92833ffbf7c&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2005-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;The&#x20;End&#x20;of&#x20;Poverty:&#x20;Economic&#x20;Possibilities&#x20;for&#x20;Our&#x20;Time,&#x20;by&#x20;Jeffrey&#x20;D&#x20;Sachs,&#x20;2005</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

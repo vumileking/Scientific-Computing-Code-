@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Moyo,&#x20;Last</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-26T12:29:16Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-26T12:29:16Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2011-02-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Moyo,&#x20;L.&#x20;(2010&#x2F;2011).&#x20;Book&#x20;review:&#x20;Hanna,&#x20;N.&#x20;(2010).&#x20;e-Transformation:&#x20;Enabling&#x20;New&#x20;Development&#x20;Strategies&#x20;–&#x20;Innovation,&#x20;Technology&#x20;and&#x20;Knowledge&#x20;Management.&#x20;Springer&#x20;Science&#x20;and&#x20;Business&#x20;Media,&#x20;New&#x20;York.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;11,&#x20;80-82.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19764</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-26T12:29:16Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Moyo.pdf:&#x20;456193&#x20;bytes,&#x20;checksum:&#x20;8e823828d322ed742dfa1855e47dcf8d&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-26T12:29:16Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Moyo.pdf:&#x20;456193&#x20;bytes,&#x20;checksum:&#x20;8e823828d322ed742dfa1855e47dcf8d&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2011-02-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;Hanna,&#x20;N.&#x20;(2010).&#x20;e-Transformation:&#x20;Enabling&#x20;New&#x20;Development&#x20;Strategies&#x20;–&#x20;Innovation,&#x20;Technology&#x20;and&#x20;Knowledge&#x20;Management.&#x20;Springer&#x20;Science&#x20;and&#x20;Business&#x20;Media,&#x20;New&#x20;York.</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

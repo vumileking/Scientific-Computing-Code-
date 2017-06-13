@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Blechman,&#x20;Jason&#x20;G</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2017-01-16T22:32:48Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2017-01-16T22:32:48Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Blechman,&#x20;J.&#x20;G.&#x20;(2016).&#x20;Mobile&#x20;credit&#x20;in&#x20;Kenya&#x20;and&#x20;Tanzania:&#x20;Emerging&#x20;regulatory&#x20;challenges&#x20;in&#x20;consumer&#x20;protection,&#x20;credit&#x20;reporting&#x20;and&#x20;use&#x20;of&#x20;customer&#x20;transactional&#x20;data.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;17</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21628</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10539&#x2F;21628</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-16T22:32:48Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Blechman.pdf:&#x20;159485&#x20;bytes,&#x20;checksum:&#x20;06cc70108e7c567f479dfc8f833c1124&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-16T22:32:48Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Blechman.pdf:&#x20;159485&#x20;bytes,&#x20;checksum:&#x20;06cc70108e7c567f479dfc8f833c1124&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Mobile&#x20;credit&#x20;in&#x20;Kenya&#x20;and&#x20;Tanzania:&#x20;Emerging&#x20;regulatory&#x20;challenges&#x20;in&#x20;consumer&#x20;protection,&#x20;credit&#x20;reporting&#x20;and&#x20;use&#x20;of&#x20;customer&#x20;transactional&#x20;data.</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">17</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">17</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

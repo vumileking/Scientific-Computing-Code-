@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Hatfield,&#x20;Dale&#x20;N.</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T18:53:12Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T18:53:12Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2003-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;4.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19820</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T18:53:12Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-4-2003-Hatfield.pdf:&#x20;89063&#x20;bytes,&#x20;checksum:&#x20;f26063bbbce5245aa10cf0b51b24692c&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T18:53:12Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-4-2003-Hatfield.pdf:&#x20;89063&#x20;bytes,&#x20;checksum:&#x20;f26063bbbce5245aa10cf0b51b24692c&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2004-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Spectrum&#x20;management&#x20;reform&#x20;and&#x20;the&#x20;notion&#x20;of&#x20;the&#x20;&#39;spectrum&#x20;commons&#39;</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

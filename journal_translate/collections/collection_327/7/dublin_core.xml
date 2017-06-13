@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Mahan,&#x20;Amy</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-28T17:53:40Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-28T17:53:40Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2004-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;5.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19819</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T17:53:40Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-5-2004-Mahan.pdf:&#x20;91348&#x20;bytes,&#x20;checksum:&#x20;cc7200d7c20d149864fc866e87f3c2b2&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T17:53:40Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-5-2004-Mahan.pdf:&#x20;91348&#x20;bytes,&#x20;checksum:&#x20;cc7200d7c20d149864fc866e87f3c2b2&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2004-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Book&#x20;review:&#x20;Rotting&#x20;from&#x20;the&#x20;Head:&#x20;Donors&#x20;and&#x20;LDC&#x20;Corruption,&#x20;edited&#x20;by&#x20;Salim&#x20;Rashid,&#x20;2004</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>
