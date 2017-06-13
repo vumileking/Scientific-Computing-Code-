@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Stavrou,&#x20;Aki</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T22:05:11Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T22:05:11Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2000-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;South&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;1.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19845</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="en">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;19845</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T22:05:10Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-1-2000-Stavrou.pdf:&#x20;929808&#x20;bytes,&#x20;checksum:&#x20;743d428ce7678831d69e853163bd2889&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T22:05:11Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-1-2000-Stavrou.pdf:&#x20;929808&#x20;bytes,&#x20;checksum:&#x20;743d428ce7678831d69e853163bd2889&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2000-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">The&#x20;role&#x20;of&#x20;communication&#x20;in&#x20;key&#x20;national,&#x20;regional,&#x20;provincial&#x20;and&#x20;local&#x20;government&#x20;development&#x20;initiatives</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language="">10.23962&#x2F;10539&#x2F;19845</dcvalue>
+</dublin_core>

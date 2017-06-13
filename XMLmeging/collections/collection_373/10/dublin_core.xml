@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Rutenberg,&#x20;Isaac</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Makanga,&#x20;Lillian</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-12-24T14:27:42Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-12-24T14:27:42Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-11-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Rutenberg,&#x20;I.,&#x20;&amp;&#x20;Makanga,&#x20;L.&#x20;(2016).&#x20;Utility&#x20;model&#x20;protection&#x20;in&#x20;Kenya:&#x20;The&#x20;case&#x20;for&#x20;substantive&#x20;examination.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;19,&#x20;19-37.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21588</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21588</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">The&#x20;patent-granting&#x20;authority&#x20;of&#x20;the&#x20;Kenyan&#x20;government&#x20;ceased&#x20;examining&#x20;applications&#x20;for&#x20;utility&#x20;model&#x20;certificates&#x20;(UMCs)&#x20;in&#x20;2014,&#x20;after&#x20;20&#x20;years&#x20;of&#x20;examination.&#x20;This&#x20;event&#x20;resulted&#x20;in&#x20;an&#x20;immediate&#x20;and&#x20;dramatic&#x20;increase&#x20;in&#x20;the&#x20;number&#x20;of&#x20;granted&#x20;UMCs.&#x20;The&#x20;authors&#x20;reviewed&#x20;a&#x20;selection&#x20;of&#x20;UMCs,&#x20;some&#x20;of&#x20;which&#x20;were&#x20;granted&#x20;after&#x20;substantive&#x20;examination&#x20;and&#x20;some&#x20;of&#x20;which&#x20;were&#x20;granted&#x20;without&#x20;substantive&#x20;examination.&#x20;Errors&#x20;were&#x20;found&#x20;in&#x20;both&#x20;groups,&#x20;and&#x20;the&#x20;overall&#x20;quality&#x20;of&#x20;granted&#x20;UMCs&#x20;declined&#x20;after&#x20;cessation&#x20;of&#x20;substantive&#x20;examination.&#x20;The&#x20;authors&#x20;conclude&#x20;that&#x20;a&#x20;return&#x20;to&#x20;substantive&#x20;examination&#x20;of&#x20;UMC&#x20;applications&#x20;would,&#x20;on&#x20;balance,&#x20;be&#x20;beneficial&#x20;to&#x20;Kenya’s&#x20;innovative&#x20;ecosystem,&#x20;and&#x20;recommend&#x20;that&#x20;such&#x20;examination&#x20;be&#x20;reinstated.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-24T14:27:42Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Rutenberg-Makanga.pdf:&#x20;200412&#x20;bytes,&#x20;checksum:&#x20;2679455444c8b2e2ce47ed74ab195761&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-24T14:27:42Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Rutenberg-Makanga.pdf:&#x20;200412&#x20;bytes,&#x20;checksum:&#x20;2679455444c8b2e2ce47ed74ab195761&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-11-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">intellectual&#x20;property,&#x20;utility&#x20;model&#x20;certificates&#x20;(UMCs),&#x20;patents,&#x20;examination,&#x20;registration,&#x20;developing&#x20;countries,&#x20;patent&#x20;offices,&#x20;Africa,&#x20;Kenya</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Utility&#x20;model&#x20;protection&#x20;in&#x20;Kenya:&#x20;The&#x20;case&#x20;for&#x20;substantive&#x20;examination</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

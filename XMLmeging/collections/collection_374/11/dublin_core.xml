@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Abrahams,&#x20;Lucienne</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2017-01-30T21:28:17Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2017-01-30T21:28:17Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Abrahams,&#x20;L.&#x20;(2016).&#x20;Editor&#39;s&#x20;introduction:&#x20;Informatics&#x20;and&#x20;digital&#x20;transformations.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;18,&#x20;1-4.</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="">Abrahams,&#x20;L.&#x20;(2016).&#x20;Editor&#39;s&#x20;introduction:&#x20;Informatics&#x20;and&#x20;digital&#x20;transformations.&#x0D;&#x0A;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;18,&#x20;1-4</dcvalue>
+  <dcvalue element="identifier" qualifier="issn">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21792</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21792</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">This&#x20;thematic&#x20;introduction&#x20;briefly&#x20;discusses&#x20;the&#x20;importance&#x20;of&#x20;pursuing&#x20;research&#x20;in&#x0D;&#x0A;informatics&#x20;and&#x20;digital&#x20;transformations&#x20;in&#x20;Africa.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-30T21:28:17Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-18-2016-Abrahams.pdf:&#x20;70256&#x20;bytes,&#x20;checksum:&#x20;86c8854c33e7484179adfc4b65e666e0&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-30T21:28:17Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-18-2016-Abrahams.pdf:&#x20;70256&#x20;bytes,&#x20;checksum:&#x20;86c8854c33e7484179adfc4b65e666e0&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">digital&#x20;transformation,&#x20;universal&#x20;access,&#x20;Africa</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Editor&#39;s&#x20;introduction:&#x20;Informatics&#x20;and&#x20;digital&#x20;transformations</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">18</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">18</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

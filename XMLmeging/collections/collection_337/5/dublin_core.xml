@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Nel,&#x20;Guillaume</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Nel,&#x20;Liezel</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Cronje,&#x20;Johannes</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-05-03T15:03:14Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-05-03T15:03:14Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2015-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;20329</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;20329</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-05-03T15:03:14Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-15-2015-Nel-et-al.pdf:&#x20;677062&#x20;bytes,&#x20;checksum:&#x20;06d290378ac866ea488b68e094248a6d&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-05-03T15:03:14Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-15-2015-Nel-et-al.pdf:&#x20;677062&#x20;bytes,&#x20;checksum:&#x20;06d290378ac866ea488b68e094248a6d&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2015-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Attributes&#x20;contributing&#x20;to&#x20;students’&#x20;use&#x20;of&#x20;quality&#x20;software&#x20;development&#x20;practices</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

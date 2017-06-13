@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Agutu,&#x20;Gordon</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Djouani,&#x20;Karim</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Biermann,&#x20;Elmarie</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Noel,&#x20;Guillaume</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-23T20:14:34Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-23T20:14:34Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2011-02-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Agutu,&#x20;G.,&#x20;Djouani,&#x20;K.,&#x20;Biermann,&#x20;E.,&#x20;&amp;&#x20;Noel,&#x20;G.&#x20;(2010&#x2F;2011).&#x20;Context-aware&#x20;VoIP&#x20;congestion&#x20;control&#x20;service.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;11,&#x20;55-76.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19721</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-23T20:14:34Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Agutu-et-al.pdf:&#x20;1158961&#x20;bytes,&#x20;checksum:&#x20;b9a6818e271749815e03bd2d3e7314ad&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-23T20:14:34Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-11-2010-2011-Agutu-et-al.pdf:&#x20;1158961&#x20;bytes,&#x20;checksum:&#x20;b9a6818e271749815e03bd2d3e7314ad&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2011-02-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Context-aware&#x20;VoIP&#x20;congestion&#x20;control&#x20;service</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+</dublin_core>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Van&#x20;Wiele,&#x20;Bram</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-12-23T16:18:32Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-12-23T16:18:32Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="issn">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21581</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21581</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">The&#x20;rise&#x20;of&#x20;digital&#x20;photography&#x20;and&#x20;videography&#x20;has&#x20;made&#x20;the&#x20;creation,&#x20;sharing&#x20;and&#x20;commercialisation&#x20;of&#x20;high-quality&#x20;photographs&#x20;and&#x20;videos&#x20;more&#x20;accessible,&#x20;in&#x20;terms&#x20;of&#x20;both&#x20;cost&#x20;and&#x20;skills&#x20;required.&#x20;This&#x20;thematic&#x20;report&#x20;examines&#x20;the&#x20;impact&#x20;on&#x20;copyright&#x20;infringement&#x20;of&#x20;the&#x20;increase&#x20;in&#x20;photographs&#x20;and&#x20;videos&#x20;containing&#x20;public&#x20;art.&#x20;It&#x20;then&#x20;analyses&#x20;the&#x20;applicability,&#x20;for&#x20;such&#x20;photographs&#x20;and&#x20;videos,&#x20;of&#x20;the&#x20;general&#x20;exceptions&#x20;for&#x20;protection&#x20;of&#x20;artistic&#x20;works&#x20;in&#x20;South&#x20;Africa’s&#x20;Copyright&#x20;Act&#x20;98&#x20;of&#x20;1978.&#x20;The&#x20;author&#x20;argues&#x20;that&#x20;the&#x20;Act’s&#x20;general&#x20;exceptions&#x20;are&#x20;too&#x20;ambiguous,&#x20;and&#x20;in&#x20;at&#x20;least&#x20;one&#x20;important&#x20;case&#x20;too&#x20;narrow,&#x20;and&#x20;thus&#x20;insufficient&#x20;to&#x20;cater&#x20;to&#x20;the&#x20;current&#x20;digital&#x20;environment.&#x20;Accordingly,&#x20;the&#x20;author&#x20;proposes&#x20;the&#x20;introduction&#x20;of&#x20;broadened&#x20;and&#x20;clarified&#x20;copyright&#x20;exceptions&#x20;that&#x20;include&#x20;fairness&#x20;requirements.</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="">Van&#x20;Wiele,&#x20;B.&#x20;(2016).&#x20;Copyright,&#x20;and&#x20;photographs&#x20;or&#x20;videos&#x20;of&#x20;public&#x20;art,&#x20;in&#x20;South&#x0D;&#x0A;Africa:&#x20;An&#x20;imperfect&#x20;picture.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x0D;&#x0A;(AJIC),&#x20;19,&#x20;153-163.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-23T16:18:32Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-19-2016-Van&#x20;Wiele.pdf:&#x20;106040&#x20;bytes,&#x20;checksum:&#x20;a2ba2ae0e9ec9742ff26f3218f3a278c&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-23T16:18:32Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;AJIC-Issue-19-2016-Van&#x20;Wiele.pdf:&#x20;106040&#x20;bytes,&#x20;checksum:&#x20;a2ba2ae0e9ec9742ff26f3218f3a278c&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">photography,&#x20;videography,&#x20;public&#x20;art,&#x20;copyright,&#x20;South&#x20;Africa,&#x20;limitations&#x20;and&#x20;exceptions,&#x20;user&#x20;rights,&#x20;freedom&#x20;of&#x20;panorama,&#x20;incidental&#x20;inclusion</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Copyright,&#x20;and&#x20;photographs&#x20;or&#x20;videos&#x20;of&#x20;public&#x20;art,&#x20;in&#x20;South&#x20;Africa:&#x20;An&#x20;imperfect&#x20;picture</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

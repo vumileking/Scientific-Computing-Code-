@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Adusei,&#x20;Poku</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-12-23T17:41:51Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-12-23T17:41:51Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Adusei,&#x20;P.&#x20;(2016).&#x20;Reflections&#x20;on&#x20;intellectual&#x20;property&#x20;benefit-sharing&#x20;in&#x20;employment&#x20;situations&#x20;in&#x20;Ghana.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;19,&#x20;131-141.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21583</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21583</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">Among&#x20;the&#x20;key&#x20;justifications&#x20;for&#x20;protecting&#x20;intellectual&#x20;property&#x20;rights&#x20;(IPRs)&#x20;is&#x20;that&#x20;they&#x20;incentivise&#x20;and&#x20;reward&#x20;human&#x20;creativity&#x20;and&#x20;innovation.&#x20;The&#x20;incentive&#x2F;reward&#x20;rationale&#x20;is&#x20;expected&#x20;to&#x20;foster&#x20;a&#x20;culture&#x20;of&#x20;innovation&#x20;across&#x20;jurisdictions&#x20;and&#x20;to&#x20;provide&#x20;sufficient&#x20;motivation&#x20;for&#x20;further&#x20;research&#x20;and&#x20;innovation.&#x20;In&#x20;this&#x20;thematic&#x20;report,&#x20;the&#x20;author&#x20;explores&#x20;the&#x20;practical&#x20;relevance&#x20;of&#x20;the&#x20;incentive&#x2F;reward&#x20;justification&#x20;for&#x20;intellectual&#x20;property&#x20;(IP)&#x20;protection&#x20;in&#x20;situations&#x20;of&#x20;employment.&#x20;The&#x20;author&#x20;argues&#x20;that&#x20;in&#x20;employment&#x20;situations&#x20;under&#x20;Ghanaian&#x20;law,&#x20;the&#x20;employer&#x20;enjoys&#x20;the&#x20;economic&#x20;benefits&#x20;of&#x20;the&#x20;fruits&#x20;of&#x20;mental&#x20;exertion&#x20;to&#x20;the&#x20;detriment&#x20;of&#x20;the&#x20;employee;&#x20;the&#x20;party&#x20;actually&#x20;engaged&#x20;in&#x20;the&#x20;enterprise&#x20;of&#x20;creating&#x20;IP&#x20;materials&#x20;receives&#x20;insufficient&#x20;incentives.&#x20;This&#x20;reality,&#x20;the&#x20;author&#x20;argues,&#x20;undermines&#x20;the&#x20;practical&#x20;relevance&#x20;of&#x20;the&#x20;core&#x20;justification&#x20;for&#x20;IPRs&#x20;protection.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-23T17:41:51Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Adusei.pdf:&#x20;100723&#x20;bytes,&#x20;checksum:&#x20;c1bbffa37ed3575f46f4fe84a0c9bef4&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-23T17:41:51Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Adusei.pdf:&#x20;100723&#x20;bytes,&#x20;checksum:&#x20;c1bbffa37ed3575f46f4fe84a0c9bef4&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">intellectual&#x20;property&#x20;rights&#x20;(IPRs),&#x20;protection,&#x20;justification,&#x20;incentive,&#x20;reward,&#x20;employment,&#x20;benefit-sharing,&#x20;Ghana</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Reflections&#x20;on&#x20;intellectual&#x20;property&#x20;benefit-sharing&#x20;in&#x20;employment&#x20;situations&#x20;in&#x20;Ghana</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

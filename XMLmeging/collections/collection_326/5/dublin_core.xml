@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Oyomno,&#x20;Gordon&#x20;Z.</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2016-02-28T19:11:22Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-28T19:11:22Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2003-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;4.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19824</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T19:11:22Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-4-2003-Oyomno.pdf:&#x20;176963&#x20;bytes,&#x20;checksum:&#x20;dec0aa4b1bc25370922b6b2380d397de&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T19:11:22Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0A;SAJIC-Issue-4-2003-Oyomno.pdf:&#x20;176963&#x20;bytes,&#x20;checksum:&#x20;dec0aa4b1bc25370922b6b2380d397de&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2003-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Towards&#x20;a&#x20;framework&#x20;for&#x20;assessing&#x20;the&#x20;maturity&#x20;of&#x20;government&#x20;capabilities&#x20;for&#x20;&#39;e-government&#39;</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

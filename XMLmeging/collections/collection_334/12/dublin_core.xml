@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="date" qualifier="accessioned">2016-02-01T16:01:59Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2016-02-01T16:01:59Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2012-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC).&#x20;(2012).&#x20;Issue&#x20;12:&#x20;Thematic&#x20;Issue:&#x20;Perspective&#x20;on&#x20;a&#x20;Decade&#x20;of&#x20;e-Government&#x20;in&#x20;Africa.&#x20;Johannesburg:&#x20;LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn">2077-7205&#x20;(Print&#x20;version);&#x20;2077-7213&#x20;(Online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19435</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-01T16:01:59Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;2&#x0A;AJIC-Issue-12-2012-Full-Issue.pdf:&#x20;2842593&#x20;bytes,&#x20;checksum:&#x20;a3f9afb491eacdd45e4ef632a1125a0f&#x20;(MD5)&#x0A;AJIC-Issue-12-2012-Full-Issue-POD.pdf:&#x20;3305182&#x20;bytes,&#x20;checksum:&#x20;44a2d55dfc92cedabd5fc8455cede66e&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-01T16:01:59Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;2&#x0A;AJIC-Issue-12-2012-Full-Issue.pdf:&#x20;2842593&#x20;bytes,&#x20;checksum:&#x20;a3f9afb491eacdd45e4ef632a1125a0f&#x20;(MD5)&#x0A;AJIC-Issue-12-2012-Full-Issue-POD.pdf:&#x20;3305182&#x20;bytes,&#x20;checksum:&#x20;44a2d55dfc92cedabd5fc8455cede66e&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2012-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">AJIC&#x20;Issue&#x20;12,&#x20;2012-Full&#x20;Issue</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

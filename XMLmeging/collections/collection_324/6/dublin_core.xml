@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Gillwald,&#x20;Alison</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-28T21:22:01Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-28T21:22:01Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2001-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;2.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19836</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-28T21:22:01Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-2-2001-Gillwald.pdf:&#x20;981409&#x20;bytes,&#x20;checksum:&#x20;e205c209dbfb131702a0940465575f4b&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-28T21:22:01Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-2-2001-Gillwald.pdf:&#x20;981409&#x20;bytes,&#x20;checksum:&#x20;e205c209dbfb131702a0940465575f4b&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2001-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Experimenting&#x20;with&#x20;institutional&#x20;arrangements&#x20;for&#x20;communications&#x20;policy&#x20;and&#x20;regulation:&#x20;The&#x20;case&#x20;of&#x20;telecommunications&#x20;and&#x20;broadcasting&#x20;in&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+</dublin_core>

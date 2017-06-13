@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="advisor" language="">JD&#x20;Banda,&#x20;Chief&#x20;Operations&#x20;Officer,&#x20;CopperNET&#x20;Solutions;&#x20;MJ&#x20;Chishala,&#x20;Technical&#x20;Director,&#x0D;&#x0A;Moneynet&#x20;Enterprises&#x20;Ltd;&#x20;G&#x20;Mwanza,&#x20;ICT&#x20;Manager&#x20;–&#x20;Systems&#x20;Administration,&#x20;Centre&#x20;for&#x0D;&#x0A;Infectious&#x20;Disease&#x20;Research&#x20;in&#x20;Zambia&#x20;(CIDRZ);</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Mzyece,&#x20;Mjumo</dcvalue>
+  <dcvalue element="date" qualifier="none" language="">2012</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-23T12:30:00Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-23T12:30:00Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2012-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Mzyece,&#x20;M.&#x20;(2012).&#x20;A&#x20;critical&#x20;analysis&#x20;of&#x20;e-government&#x20;in&#x20;Zambia.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;12,&#x20;110-127.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19711</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="">This&#x20;article&#x20;presents&#x20;a&#x20;critical&#x20;analysis&#x20;of&#x20;e-government&#x20;in&#x20;Zambia.&#x20;It&#x20;reviews&#x20;the&#x20;relevant&#x20;literature&#x20;and&#x20;then&#x20;explains&#x20;the&#x20;structure&#x20;and&#x20;operation&#x20;of&#x20;the&#x20;Zambian&#x20;government&#x20;in&#x20;the&#x20;context&#x20;of&#x20;e-government.&#x20;It&#x20;presents&#x20;and&#x20;analyses&#x20;the&#x20;results&#x20;of&#x20;a&#x20;small&#x20;sample&#x20;study&#x20;on&#x20;e-government&#x20;in&#x20;Zambia&#x20;and&#x20;points&#x20;to&#x20;six&#x20;areas&#x20;for&#x20;policy&#x20;reform,&#x20;highlighting&#x20;leadership,&#x20;stakeholder&#x20;engagement,&#x20;prioritisation,&#x20;increased&#x20;funding,&#x20;private&#x20;sector&#x20;participation&#x20;and&#x20;mobile&#x20;channels&#x20;as&#x20;key&#x20;elements&#x20;needed&#x20;for&#x20;future&#x20;success.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-23T12:30:00Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Mzyece.pdf:&#x20;777741&#x20;bytes,&#x20;checksum:&#x20;fd539e4cbf7bc3f53cc4c11103841443&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-23T12:30:00Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Mzyece.pdf:&#x20;777741&#x20;bytes,&#x20;checksum:&#x20;fd539e4cbf7bc3f53cc4c11103841443&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2012-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">A&#x20;critical&#x20;analysis&#x20;of&#x20;e-government&#x20;in&#x20;Zambia</dcvalue>
+  <dcvalue element="title" qualifier="alternative" language="">French&#x20;South&#x20;African&#x20;Institute&#x20;of&#x20;Technology&#x20;(F&#39;SATI),&#x20;Tshwane&#x20;University&#x20;of&#x20;Technology,&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+  <dcvalue element="citation" qualifier="spage" language="">18</dcvalue>
+</dublin_core>

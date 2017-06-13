@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Chabossou,&#x20;Augustin</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Stork,&#x20;Christoph</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Stork,&#x20;Matthias</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Zahonogo,&#x20;Pam</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-27T10:43:20Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-27T10:43:20Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2008-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Chabossou,&#x20;A.,&#x20;Stork,&#x20;C.,&#x20;Stork,&#x20;M.,&#x20;&amp;&#x20;Zahonogo,&#x20;P.&#x20;(2008).&#x20;The&#x20;role&#x20;of&#x20;institutional&#x20;design&#x20;in&#x20;the&#x20;conduct&#x20;of&#x20;infrastructure&#x20;industry&#x20;reforms:&#x20;An&#x20;illustration&#x20;through&#x20;telecommunications&#x20;in&#x20;developing&#x20;countries.&#x20;The&#x20;Southern&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(SAJIC),&#x20;9,&#x20;17-41.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19777</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-27T10:43:20Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-9-2008-Chabossou-et-al.pdf:&#x20;895190&#x20;bytes,&#x20;checksum:&#x20;2bc38a964cddfbbde0a4de328a7e81a0&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-27T10:43:20Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;SAJIC-Issue-9-2008-Chabossou-et-al.pdf:&#x20;895190&#x20;bytes,&#x20;checksum:&#x20;2bc38a964cddfbbde0a4de328a7e81a0&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2008-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Mobile&#x20;telephony&#x20;access&#x20;and&#x20;usage&#x20;in&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

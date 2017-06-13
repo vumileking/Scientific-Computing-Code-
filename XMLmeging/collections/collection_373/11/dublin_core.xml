@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Armstrong,&#x20;Chris</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Schonwetter,&#x20;Tobias</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2017-01-21T16:40:27Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2017-01-21T16:40:27Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Armstrong,&#x20;C.,&#x20;&amp;&#x20;Schonwetter,&#x20;T.&#x20;(2016).&#x20;Conceptualising&#x20;knowledge&#x20;governance&#x20;for&#x20;development.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;19,&#x20;1-17.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21749</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21749</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">Through&#x20;examining&#x20;conceptions&#x20;of&#x20;the&#x20;interface&#x20;between&#x20;development&#x20;and&#x0D;&#x0A;knowledge,&#x20;and&#x20;conceptions&#x20;of&#x20;the&#x20;notion&#x20;of&#x20;knowledge&#x20;governance,&#x20;this&#x20;article&#x0D;&#x0A;provides&#x20;a&#x20;conceptual&#x20;framing&#x20;for&#x20;the&#x20;items&#x20;published&#x20;in&#x20;this&#x20;AJIC&#x20;“knowledge&#x0D;&#x0A;governance&#x20;for&#x20;development”&#x20;thematic&#x20;issue.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-21T16:40:26Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Armstrong-Schonwetter.pdf:&#x20;126841&#x20;bytes,&#x20;checksum:&#x20;865a462e708be6fdd3a0aa053bcd100e&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-21T16:40:27Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Armstrong-Schonwetter.pdf:&#x20;126841&#x20;bytes,&#x20;checksum:&#x20;865a462e708be6fdd3a0aa053bcd100e&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">knowledge&#x20;governance,&#x20;development,&#x20;sustainable&#x20;development,&#x20;intellectual&#x20;property&#x20;(IP),&#x20;access&#x20;to&#x20;knowledge&#x20;(A2K),&#x20;human&#x20;security,&#x20;human&#x20;rights</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Conceptualising&#x20;knowledge&#x20;governance&#x20;for&#x20;development</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">19</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

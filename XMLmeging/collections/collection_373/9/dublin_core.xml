@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Ntawanga,&#x20;Felix</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Coleman,&#x20;Alfred</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-12-24T14:23:48Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-12-24T14:23:48Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Ntawanga,&#x20;F.,&#x20;&amp;&#x20;Coleman,&#x20;A.&#x20;(2016).&#x20;Using&#x20;the&#x20;living&#x20;lab&#x20;approach&#x20;to&#x20;develop&#x20;and&#x20;adapt&#x20;a&#x20;context-aware&#x20;ICT4D&#x20;solution.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;19,&#x20;39-58.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21587</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21587</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="en_ZA">The&#x20;rising&#x20;use&#x20;of&#x20;mobile&#x20;smartphones&#x20;by&#x20;people&#x20;in&#x20;rural&#x20;areas&#x20;of&#x20;the&#x20;developing&#x20;world&#x20;has&#x20;resulted&#x20;in&#x20;increased&#x20;deployment&#x20;of&#x20;information&#x20;and&#x20;communications&#x20;technology&#x20;for&#x20;development&#x20;(ICT4D)&#x20;solutions&#x20;targeted&#x20;at&#x20;empowering&#x20;rural&#x20;communities&#x20;to&#x20;overcome&#x20;various&#x20;socio-economic&#x20;challenges.&#x20;However,&#x20;shortfalls&#x20;in&#x20;infrastructure,&#x20;community&#x20;buy-in,&#x20;training,&#x20;and&#x20;management&#x20;of&#x20;ICT&#x20;interventions&#x20;are&#x20;widely&#x20;cited&#x20;as&#x20;impeding&#x20;user&#x20;acceptance&#x20;and&#x20;sustainability&#x20;of&#x20;potentially&#x20;useful&#x20;rural&#x20;ICT4D&#x20;interventions.&#x20;This&#x20;article&#x20;outlines&#x20;a&#x20;deployment&#x20;of&#x20;the&#x20;living&#x20;lab&#x20;approach&#x20;to&#x20;develop&#x20;and&#x20;adapt&#x20;a&#x20;mobile,&#x20;web-based,&#x20;e-procurement&#x20;solution&#x20;for&#x20;small-scale&#x20;retailers&#x20;in&#x20;Kgautswane,&#x20;a&#x20;remote&#x20;rural&#x20;area&#x20;in&#x20;South&#x20;Africa’s&#x20;Limpopo&#x20;Province.&#x20;The&#x20;living&#x20;lab&#x20;approach&#x20;is&#x20;an&#x20;open-innovation&#x20;methodology&#x20;for&#x20;development&#x20;of&#x20;context-based&#x20;sustainable&#x20;ICT4D&#x20;solutions.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-12-24T14:23:48Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Ntawanga-Coleman.pdf:&#x20;1004433&#x20;bytes,&#x20;checksum:&#x20;551ff3e817d63f46deb8b12809d9be7b&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-12-24T14:23:48Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-19-2016-Ntawanga-Coleman.pdf:&#x20;1004433&#x20;bytes,&#x20;checksum:&#x20;551ff3e817d63f46deb8b12809d9be7b&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="en_ZA">ICT4D,&#x20;rural&#x20;areas,&#x20;sustainability,&#x20;living&#x20;lab,&#x20;open&#x20;innovation,&#x20;context-aware&#x20;computing,&#x20;usability,&#x20;Kgautswane,&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Using&#x20;the&#x20;living&#x20;lab&#x20;approach&#x20;to&#x20;develop&#x20;and&#x20;adapt&#x20;a&#x20;context-aware&#x20;ICT4D&#x20;solution</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">19</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>

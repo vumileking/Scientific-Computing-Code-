@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Wray,&#x20;Chris</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Van&#x20;Olst,&#x20;Rex</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2016-02-23T12:19:39Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2016-02-23T12:19:39Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2012-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Wray,&#x20;C.,&#x20;&amp;&#x20;Van&#x20;Olst,&#x20;R.&#x20;(2012).&#x20;Enabling&#x20;g-government&#x20;in&#x20;the&#x20;Gauteng&#x20;city-region.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;12,&#x20;65-83.</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;19709</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2016-02-23T12:19:39Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Wray-Van-Olst.pdf:&#x20;932234&#x20;bytes,&#x20;checksum:&#x20;6768e89720ac6bf24b17b967c68eef66&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2016-02-23T12:19:39Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-12-2012-Wray-Van-Olst.pdf:&#x20;932234&#x20;bytes,&#x20;checksum:&#x20;6768e89720ac6bf24b17b967c68eef66&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2012-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Enabling&#x20;g-government&#x20;in&#x20;the&#x20;Gauteng&#x20;city-region</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="citation" qualifier="doi" language=""></dcvalue>
+</dublin_core>

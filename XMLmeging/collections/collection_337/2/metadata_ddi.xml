@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="ddi">
+  <dcvalue element="analysisunit" qualifier="none" language="">open&#x20;and&#x20;distance&#x20;learning&#x20;(ODL)&#x20;university</dcvalue>
+  <dcvalue element="collmode" qualifier="none" language="">a&#x20;policy&#x20;document&#x20;analysis&#x20;and&#x20;a&#x20;quantitative&#x20;student&#x20;survey.</dcvalue>
+  <dcvalue element="geogcover" qualifier="none" language="">South&#x20;Africa</dcvalue>
+  <dcvalue element="method" qualifier="none" language="">survey&#x20;&#x20;content&#x20;analysis</dcvalue>
+  <dcvalue element="sampproc" qualifier="none" language="">Purposeful&#x20;sampling&#x20;was&#x20;used&#x20;to&#x20;enroll&#x20;the&#x20;participants&#x20;and&#x20;129&#x20;students&#x20;completed&#x20;the&#x20;questionnaire.&#x20;The&#x20;students&#x20;were&#x20;third-year&#x20;IS&#x20;students&#x20;registered&#x20;for&#x20;a&#x20;database&#x20;course&#x20;in&#x20;the&#x20;School&#x20;of&#x20;Computing&#x20;at&#x20;the&#x20;university.&#x20;The&#x20;gender&#x20;ratios&#x20;of&#x20;the&#x20;students&#x20;were&#x20;32%&#x20;female&#x20;and&#x20;68%&#x20;male.</dcvalue>
+</dublin_core>
