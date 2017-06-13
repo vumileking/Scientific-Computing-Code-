@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Mazer,&#x20;Rafe</dcvalue>
+  <dcvalue element="contributor" qualifier="author" language="">Rowan,&#x20;Philip</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2017-01-16T22:35:51Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2017-01-16T22:35:51Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">15-12-16</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Mazer,&#x20;R.,&#x20;&amp;&#x20;Rowan,&#x20;P.&#x20;(2016).&#x20;Competition&#x20;in&#x20;mobile&#x20;financial&#x20;services:&#x20;Lessons&#x20;from&#x20;Kenya&#x20;and&#x20;Tanzania.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC),&#x20;17.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21629</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;21629</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="">Mobile&#x20;financial&#x20;services&#x20;(MFS)&#x20;are&#x20;the&#x20;main&#x20;drivers&#x20;of&#x20;financial&#x20;inclusion&#x20;in&#x0D;&#x0A;many&#x20;developing&#x20;countries,&#x20;where&#x20;they&#x20;provide&#x20;low-income&#x20;consumers&#x20;with&#x20;access&#x0D;&#x0A;to&#x20;transfers,&#x20;payments,&#x20;and&#x20;increasingly&#x20;more&#x20;complex&#x20;products&#x20;including&#x20;credit,&#x0D;&#x0A;savings,&#x20;and&#x20;insurance.&#x20;MFS&#x20;channels&#x20;can&#x20;provide&#x20;the&#x20;advantages&#x20;of&#x20;convenient,&#x0D;&#x0A;secure,&#x20;and&#x20;cost-efficient&#x20;product&#x20;offerings&#x20;to&#x20;consumers.&#x20;In&#x20;several&#x20;markets,&#x20;MFS&#x0D;&#x0A;have&#x20;helped&#x20;to&#x20;significantly&#x20;increase&#x20;the&#x20;portion&#x20;of&#x20;the&#x20;population&#x20;with&#x20;access&#x20;to&#x0D;&#x0A;formal&#x20;financial&#x20;services.&#x20;To&#x20;promote&#x20;both&#x20;quality&#x20;and&#x20;diversity&#x20;in&#x20;MFS&#x20;products,&#x0D;&#x0A;and&#x20;in&#x20;turn&#x20;financial&#x20;inclusion,&#x20;it&#x20;is&#x20;important&#x20;to&#x20;ensure&#x20;a&#x20;competitive&#x20;ecosystem&#x20;that&#x0D;&#x0A;facilitates&#x20;entry&#x20;into&#x20;the&#x20;market,&#x20;the&#x20;development&#x20;of&#x20;innovative&#x20;MFS&#x20;products,&#x20;and&#x0D;&#x0A;high-quality,&#x20;value-for-money&#x20;services.&#x20;This&#x20;article&#x20;aims&#x20;to&#x20;provide&#x20;insights&#x20;into&#x20;the&#x0D;&#x0A;role&#x20;that&#x20;effective&#x20;competition&#x20;and&#x20;competition&#x20;policy&#x20;play&#x20;in&#x20;developing&#x20;MFS,&#x20;and&#x0D;&#x0A;in&#x20;promoting&#x20;financial&#x20;inclusion,&#x20;using&#x20;Kenya&#x20;and&#x20;Tanzania&#x20;as&#x20;case&#x20;countries.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-16T22:35:51Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Mazer-Rowan.pdf:&#x20;217024&#x20;bytes,&#x20;checksum:&#x20;ed13023fcfe54e666686b5eecb4c329a&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-16T22:35:51Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Mazer-Rowan.pdf:&#x20;217024&#x20;bytes,&#x20;checksum:&#x20;ed13023fcfe54e666686b5eecb4c329a&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;&#x20;&#x20;&#x20;2-11-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">Competition&#x20;in&#x20;mobile&#x20;financial&#x20;services:&#x20;Lessons&#x20;from&#x20;Kenya&#x20;and&#x20;Tanzania</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">17</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">17</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>
+

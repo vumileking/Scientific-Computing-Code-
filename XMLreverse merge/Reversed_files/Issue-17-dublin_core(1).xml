@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Hawthorne,&#x20;Ryan</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2017-01-16T21:37:57Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2017-01-16T21:37:57Z</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2016-12-15</dcvalue>
+  <dcvalue element="identifier" qualifier="citation" language="en_ZA">Hawthorne,&#x20;R.&#x20;(2016).&#x20;The&#x20;impact&#x20;of&#x20;the&#x20;call&#x20;termination&#x20;rate&#x20;reduction&#x20;on&#x20;consumer&#x20;surplus&#x20;in&#x20;South&#x20;Africa.&#x20;The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication(AJIC),&#x20;17,&#x20;199-207.</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7205&#x20;(print&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="issn" language="">2077-7213&#x20;(online&#x20;version)</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;hdl.handle.net&#x2F;10539&#x2F;21622</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;10539&#x2F;216</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="">This&#x20;thematic&#x20;report&#x20;presents&#x20;some&#x20;initial&#x20;data&#x20;on&#x20;mobile&#x20;call&#x20;termination&#x20;rates,&#x20;and&#x0D;&#x0A;the&#x20;welfare&#x20;improvement&#x20;due&#x20;to&#x20;call&#x20;termination&#x20;rate&#x20;regulatory&#x20;interventions,&#x20;in&#x0D;&#x0A;South&#x20;Africa&#x20;for&#x20;the&#x20;period&#x20;2010&#x20;to&#x20;2015.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Chris&#x20;Armstrong&#x20;(c.g.armstrong@gmail.com)&#x20;on&#x20;2017-01-16T21:37:57Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Hawthorne.pdf:&#x20;110394&#x20;bytes,&#x20;checksum:&#x20;e41c333cdf7e593cddf0ed23f2e29b51&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2017-01-16T21:37:57Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;AJIC-Issue-17-2016-Hawthorne.pdf:&#x20;110394&#x20;bytes,&#x20;checksum:&#x20;e41c333cdf7e593cddf0ed23f2e29b51&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2016-12-15</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_ZA">en</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_ZA">LINK&#x20;Centre,&#x20;University&#x20;of&#x20;the&#x20;Witwatersrand&#x20;(Wits),&#x20;Johannesburg</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_ZA">The&#x20;impact&#x20;of&#x20;the&#x20;call&#x20;termination&#x20;rate&#x20;reduction&#x20;on&#x20;consumer&#x20;surplus&#x20;in&#x20;South&#x20;Africa</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_ZA">Article</dcvalue>
+  <dcvalue element="journal" qualifier="volume" language="en_ZA">17</dcvalue>
+  <dcvalue element="journal" qualifier="title" language="en_ZA">The&#x20;African&#x20;Journal&#x20;of&#x20;Information&#x20;and&#x20;Communication&#x20;(AJIC)</dcvalue>
+  <dcvalue element="description" qualifier="librarian" language="en_ZA">CA2016</dcvalue>
+  <dcvalue element="citation" qualifier="issue" language="en_ZA">17</dcvalue>
+  <dcvalue element="description" qualifier="url" language="en_ZA">www.wits.ac.za&#x2F;linkcentre&#x2F;ajic</dcvalue>
+</dublin_core>
+
