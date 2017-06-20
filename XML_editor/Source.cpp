@@ -80,7 +80,7 @@ int n=i+19;//reads where the first dio initial number starts
 		
 		char dioconv2= NULL;//variable that manipultes the system to accept the char arrays in the mxl file
 		std::string count_iss1 = std::to_string(dioconv2);//converting char to string
-		outfile<<"<dcvalue element=\"identifier\" qualifier=\"uri\">https:&#x2F;&#x2F;doi.org&#x2F;1"+count_iss1+"539&#x2F;"+name2[dio2+5]+name2[dio2+6]+name2[dio2+7]+name2[dio2+8]+name2[dio2+9]+"</dcvalue>"<<endl;//inserting the dio code in xml
+		outfile<<"<dcvalue element=\"identifier\" qualifier=\"uri\">https:&#x2F;&#x2F;doi.org&#x2F;10.23962&#x2F;1"+count_iss1+"539&#x2F;"+name2[dio2+5]+name2[dio2+6]+name2[dio2+7]+name2[dio2+8]+name2[dio2+9]+"</dcvalue>"<<endl;//inserting the dio code in xml
 		outfile<<"<dcvalue element=\"description\" qualifier=\"abstract\" language=\"en_ZA\">"+edit+"</dcvalue>"<<endl;//inserting abstract in xml file
 		
 		outfile<<name2[i];//insert the rest of info in the file
